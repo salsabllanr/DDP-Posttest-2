@@ -1,4 +1,6 @@
 # DDP-Posttest-2
-Adinda Salsabilla Naura 2309116023
+NAMA  : Adinda Salsabilla Naura 
+NIM   : 2309116023
+KELAS : Sistem Informasi-A
 
-
+# FLOWCHART
