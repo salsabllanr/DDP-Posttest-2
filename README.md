@@ -5,7 +5,8 @@ KELAS : Sistem Informasi-A
 TEMA  : Tea Drink
 
 # FLOWCHART
-![Diagram Tanpa Judul drawio](https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/e90493c8-0e4d-49fd-b293-33c230d7d45e)
+![posttest_salsa drawio](https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/8e792c77-6d0e-46bd-924a-48a1206f0fba)
+
 ini flowchart
 <img width="691" alt="Tangkapan Layar 2023-10-10 pukul 11 46 42" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/c4cadde8-9396-4479-8b85-5ba1a927079f">
 ini tampilan awal
