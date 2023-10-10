@@ -13,27 +13,31 @@ ini flowchart
 ini tampilan awal
 
 <img width="599" alt="Tangkapan Layar 2023-10-10 pukul 11 47 32" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/f13a8e72-2c74-4c21-8522-9389f3d39b4e">
-# ini jika masuk sebagai admin
+jika masuk sebagai admin
 
 <img width="555" alt="Tangkapan Layar 2023-10-10 pukul 11 47 53" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/e81d5fa4-fc6b-4b4e-b35c-ad7a0ed56f87">
-# inputan 1, lihat menu
+inputan 1, lihat menu
 
 <img width="550" alt="Tangkapan Layar 2023-10-10 pukul 12 09 03" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/dd80ced1-26ad-48a4-bd0d-5140d826a49e">
-# inputan 2, tambah menu
+inputan 2, tambah menu
 
 <img width="594" alt="Tangkapan Layar 2023-10-10 pukul 12 10 02" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/12097ea8-0900-4c96-a5ae-fb34403ccd32">
-# menu yang sudah ditambahkan
+# Menu yang sudah ditambahkan
 
+<img width="428" alt="Tangkapan Layar 2023-10-10 pukul 12 19 09" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/6d770dda-6d09-463f-bb65-b4e2c2a0ddee">
+tampilan untuk mengubah harga menu
 
+<img width="524" alt="Tangkapan Layar 2023-10-10 pukul 12 20 45" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/f5d54b87-19df-4777-a8cc-000c911c3e9b">
+harga yang sudah diubah
 
+<img width="527" alt="Tangkapan Layar 2023-10-10 pukul 12 21 50" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/37648911-21d8-4429-a5bf-f88d0e3108fc">
+menu yang ingin diubah hapuskan
 
-<img width="631" alt="Tangkapan Layar 2023-10-10 pukul 11 50 15" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/ea26a54e-fc34-460a-b534-ebe34f6d522b">
-<img width="677" alt="Tangkapan Layar 2023-10-10 pukul 11 50 02" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/3156cfb7-591d-4e78-9256-912ec8f43c0c">
-<img width="533" alt="Tangkapan Layar 2023-10-10 pukul 11 49 40" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/4161ba20-0607-4438-88dd-fa468d86c20d">
-<img width="677" alt="Tangkapan Layar 2023-10-10 pukul 11 49 26" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/d001c980-134f-4c2d-af90-a14675a18b35">
-<img width="578" alt="Tangkapan Layar 2023-10-10 pukul 11 49 16" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/7193c071-4dbb-45c1-8816-d2660eccc7cb">
-<img width="491" alt="Tangkapan Layar 2023-10-10 pukul 11 49 11" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/9f1c23d8-000c-47a6-91ea-be520e3580de">
-T<img width="580" alt="Tangkapan Layar 2023-10-10 pukul 11 48 39" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/0aa593cd-7e63-4d61-958e-f60e8321bdd7">
+<img width="502" alt="Tangkapan Layar 2023-10-10 pukul 12 22 00" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/b6f73e60-8328-4fae-837e-4ad56705c87c">
+menu telah dihapus
 
+<img width="544" alt="Tangkapan Layar 2023-10-10 pukul 12 22 12" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/9c35c8aa-367d-464f-920e-8bb89484c6b8">
+tampilan jika kembali ke menu awal
 
-<img width="521" alt="Tangkapan Layar 2023-10-10 pukul 11 48 58" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/2e4aa458-3692-4b7d-8de4-17c7f21d98d3">
+<img width="650" alt="Tangkapan Layar 2023-10-10 pukul 12 22 22" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/72119e51-7364-44c0-8556-b78178538187">
+tampilan jika keluarga program
