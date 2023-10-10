@@ -13,10 +13,14 @@ ini flowchart
 ini tampilan awal
 
 <img width="599" alt="Tangkapan Layar 2023-10-10 pukul 11 47 32" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/f13a8e72-2c74-4c21-8522-9389f3d39b4e">
-ini jika masuk sebagai admin
+# ini jika masuk sebagai admin
 
 <img width="555" alt="Tangkapan Layar 2023-10-10 pukul 11 47 53" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/e81d5fa4-fc6b-4b4e-b35c-ad7a0ed56f87">
-inputan 1, lihat menu
+# inputan 1, lihat menu
+
+<img width="550" alt="Tangkapan Layar 2023-10-10 pukul 12 09 03" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/dd80ced1-26ad-48a4-bd0d-5140d826a49e">
+# inputan 2, tambah menu
+
 
 <img width="631" alt="Tangkapan Layar 2023-10-10 pukul 11 50 15" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/ea26a54e-fc34-460a-b534-ebe34f6d522b">
 <img width="677" alt="Tangkapan Layar 2023-10-10 pukul 11 50 02" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/3156cfb7-591d-4e78-9256-912ec8f43c0c">
