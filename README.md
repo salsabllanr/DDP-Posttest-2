@@ -22,7 +22,7 @@ inputan 1, lihat menu
 inputan 2, tambah menu
 
 <img width="594" alt="Tangkapan Layar 2023-10-10 pukul 12 10 02" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/12097ea8-0900-4c96-a5ae-fb34403ccd32">
-# Menu yang sudah ditambahkan
+Menu yang sudah ditambahkan
 
 <img width="428" alt="Tangkapan Layar 2023-10-10 pukul 12 19 09" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/6d770dda-6d09-463f-bb65-b4e2c2a0ddee">
 tampilan untuk mengubah harga menu
