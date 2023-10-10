@@ -1,4 +1,4 @@
-<img width="559" alt="Tangkapan Layar 2023-10-10 pukul 11 48 32" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/2cdb09cd-b1f6-4403-8cc7-fb904db7fb58"># DDP-Posttest-2
+# DDP-Posttest-2
 NAMA  : Adinda Salsabilla Naura 
 NIM   : 2309116023
 KELAS : Sistem Informasi-A
