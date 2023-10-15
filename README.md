@@ -40,4 +40,4 @@ menu telah dihapus
 tampilan jika kembali ke menu awal
 
 <img width="650" alt="Tangkapan Layar 2023-10-10 pukul 12 22 22" src="https://github.com/salsabllanr/DDP-Posttest-2/assets/144398756/72119e51-7364-44c0-8556-b78178538187">
-tampilan jika keluarga program
+tampilan jika keluar program
